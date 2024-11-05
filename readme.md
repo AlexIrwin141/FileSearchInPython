@@ -19,8 +19,8 @@ Other libraries: Listed in requirements.txt
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/file-search-app.git
-cd file-search-app
+git clone https://github.com/AlexIrwin141/FileSearchInPython
+cd FileSearchInPython
 
 Install Required Packages:
 Install dependencies using pip:
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 Note: Ensure you have Python 3.6 or higher installed.
 
 Run the application:  
-python file_search.py  
+python main.py  
 
 Interface Guide:
 
